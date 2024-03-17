@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MadimiOne-Regular';
+  src: url('../public/fonts/MadimiOne-Regular.ttf') format('ttf');
+}
+
+
+.wrapper{
+  margin: 50px 200px;
+}
